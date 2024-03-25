@@ -1,3 +1,3 @@
 # JenkinsDemo
 
-This is a webhook demo for jenkins pipeline
+This is a webhook demo for jenkins pipeline - auto trigger
